@@ -256,7 +256,9 @@ endmodule
 ![277668731-42a34962-8a37-4fcc-83fd-79c252e740a8](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/42688274-dacc-4414-8d17-611c1863c20f)
 
 ### WAVEFPRM FOR JK_TOGGLE:
-![277669175-e007d92f-bed9-49d2-bc22-38d4416ed433](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/f3a3d9bd-c11e-491f-a971-4f656060c052)
+
+![277669036-67c150ba-cebd-4baf-891a-121db6aa8cad](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/5ec4086c-d85f-4221-81f8-1fb568e00106)
+
 
 ### WAVEFPRM FOR D:
 
