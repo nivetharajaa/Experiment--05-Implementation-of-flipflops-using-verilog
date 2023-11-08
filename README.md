@@ -231,21 +231,16 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS 
 ### RTL FOR SR
-
 ![277667626-6afdba53-0b8f-4919-aa6e-b6ba487106bf](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/24850588-684d-4662-9076-c44881999bff)
 
 ### RTL FOR JK
-
 ![277667817-416519ad-8454-45e8-b318-53ae395adf04](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/4755ec39-1e99-476e-9eff-0d5f6324def8)
 
 ### RTL FOR D:
-
 ![277667962-fa2b0cff-1a57-4799-88ae-8fa92c512a3e](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/896e55d9-14c8-4435-a327-d86c574de403)
 
 ### RTL FOR T:
-
 ![277668079-5570644a-0275-4999-a085-121dcbd3d75d](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/b6f3f8d3-11b1-4b78-ae0c-02cff821f1dc)
-
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
@@ -256,17 +251,12 @@ endmodule
 ![277668731-42a34962-8a37-4fcc-83fd-79c252e740a8](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/42688274-dacc-4414-8d17-611c1863c20f)
 
 ### WAVEFPRM FOR JK_TOGGLE:
-
 ![277669036-67c150ba-cebd-4baf-891a-121db6aa8cad](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/5ec4086c-d85f-4221-81f8-1fb568e00106)
 
-
 ### WAVEFPRM FOR D:
-
 ![277669175-e007d92f-bed9-49d2-bc22-38d4416ed433](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/3c48d75d-6d1e-4a88-884d-08f02a1a9b93)
 
-
 ### WAVEFPRM FOR T:
-
 ![277669251-537b703b-c726-4e9b-b9ac-d22745f8e109](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/a6588108-c6f8-418d-a265-a938d86123dc)
 
 ### RESULTS 
