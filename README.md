@@ -231,19 +231,37 @@ endmodule
 
 ![277667626-6afdba53-0b8f-4919-aa6e-b6ba487106bf](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/24850588-684d-4662-9076-c44881999bff)
 
+### RTL FOR JK
 
+![277667817-416519ad-8454-45e8-b318-53ae395adf04](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/4755ec39-1e99-476e-9eff-0d5f6324def8)
 
+### RTL FOR D:
 
+![277667962-fa2b0cff-1a57-4799-88ae-8fa92c512a3e](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/896e55d9-14c8-4435-a327-d86c574de403)
 
+### RTL FOR T:
+
+![277668079-5570644a-0275-4999-a085-121dcbd3d75d](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/b6f3f8d3-11b1-4b78-ae0c-02cff821f1dc)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
+![277668627-b071487d-dd61-467b-9a1f-cddb878628b3](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/54b5c5fd-42ce-4711-890c-ebc76736f367)
 
 
+![277668731-42a34962-8a37-4fcc-83fd-79c252e740a8](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/42688274-dacc-4414-8d17-611c1863c20f)
 
 
+![277669036-67c150ba-cebd-4baf-891a-121db6aa8cad](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/a3214419-a04f-4db1-8444-cd5d52f96613)
+
+
+![277669175-e007d92f-bed9-49d2-bc22-38d4416ed433](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/f3a3d9bd-c11e-491f-a971-4f656060c052)
+
+
+![277669251-537b703b-c726-4e9b-b9ac-d22745f8e109](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/ade5bfa7-4d62-4a59-99a6-c47ac4cd4c42)
 
 
 ### RESULTS 
+
+Implementation-of-flipflops-using-verilog successfully completed.
