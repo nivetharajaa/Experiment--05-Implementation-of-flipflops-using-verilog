@@ -246,21 +246,22 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-
+### WAVEFPRM FOR SR:
 ![277668627-b071487d-dd61-467b-9a1f-cddb878628b3](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/54b5c5fd-42ce-4711-890c-ebc76736f367)
 
-
+### WAVEFPRM FOR JK:
 ![277668731-42a34962-8a37-4fcc-83fd-79c252e740a8](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/42688274-dacc-4414-8d17-611c1863c20f)
 
-
-![277669036-67c150ba-cebd-4baf-891a-121db6aa8cad](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/a3214419-a04f-4db1-8444-cd5d52f96613)
-
-
+### WAVEFPRM FOR JK_TOGGLE:
 ![277669175-e007d92f-bed9-49d2-bc22-38d4416ed433](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/f3a3d9bd-c11e-491f-a971-4f656060c052)
 
+### WAVEFPRM FOR D:
 
 ![277669251-537b703b-c726-4e9b-b9ac-d22745f8e109](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/ade5bfa7-4d62-4a59-99a6-c47ac4cd4c42)
 
+### WAVEFPRM FOR T:
+
+![277669251-537b703b-c726-4e9b-b9ac-d22745f8e109](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/a6588108-c6f8-418d-a265-a938d86123dc)
 
 ### RESULTS 
 
