@@ -260,7 +260,8 @@ endmodule
 
 ### WAVEFPRM FOR D:
 
-![277669251-537b703b-c726-4e9b-b9ac-d22745f8e109](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/ade5bfa7-4d62-4a59-99a6-c47ac4cd4c42)
+![277669175-e007d92f-bed9-49d2-bc22-38d4416ed433](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/3c48d75d-6d1e-4a88-884d-08f02a1a9b93)
+
 
 ### WAVEFPRM FOR T:
 
