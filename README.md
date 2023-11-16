@@ -105,7 +105,7 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+
 
 STEP 1: Open Quartus II and select new project and choose the file location.
 
@@ -121,13 +121,14 @@ STEP 6: Run the program and choose RTL viewer to get RTL realization
 
 
 ### PROGRAM 
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+
 Developed by:A.NIVETHA 
+
 RegisterNumber:212222230101  
-*/
 ## SR FLIPFLOPS CODE:
-
+```
 module ex5(S,R,clk,Q,Qbar);
 
 input S,R,clk;
@@ -151,9 +152,9 @@ Qbar=R|((~S)&(Qbar));
 end
 
 endmodule
-
+```
 ## SR FLIPFLOPS CODE:
-
+```
 module ex5(S,R,clk,Q,Qbar);
 
 input S,R,clk;
@@ -177,8 +178,9 @@ Qbar=R|((~S)&(Qbar));
 end
 
 endmodule
+```
 ## D FLIPFLOPS CODE:
-
+```
 module ex5(D,clk,Q,Qbar);
 
 input D,clk;
@@ -202,8 +204,9 @@ Qbar=~D;
 end
 
 endmodule
+```
 ## T FLIPFLOPS CODE:
-
+```
 module ex5(T,clk,Q,Qbar);
 
 input T,clk;
@@ -228,7 +231,7 @@ end
 
 endmodule
 
-
+```
 ### RTL LOGIC FOR FLIPFLOPS 
 ### RTL FOR SR
 ![277667626-6afdba53-0b8f-4919-aa6e-b6ba487106bf](https://github.com/nivetharajaa/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120543388/24850588-684d-4662-9076-c44881999bff)
